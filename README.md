@@ -2,7 +2,7 @@
 
 Interactive D3.js + Leaflet dashboard for the **Município de Coimbra**, Portugal, built entirely from open public data.
 
-🗺️ **[Live Dashboard](https://dealmeida.github.io/DashCMCoimbra/)**
+🗺️ **[Live Dashboard](https://indradashdemo.github.io/MunicipioCoimbra/)**
 
 ---
 
