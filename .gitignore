@@ -1,0 +1,10 @@
+# Dev working copy — not deployed
+index_dev.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
